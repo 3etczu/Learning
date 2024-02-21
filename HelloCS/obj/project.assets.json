@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HOME\\.nuget\\packages\\": {}
+    "C:\\Users\\Zetczu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\Chapter01-vscode\\HelloCS\\HelloCS.csproj",
+      "projectUniqueName": "X:\\Project\\Learning\\HelloCS\\HelloCS.csproj",
       "projectName": "HelloCS",
-      "projectPath": "C:\\Project\\Chapter01-vscode\\HelloCS\\HelloCS.csproj",
-      "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\Chapter01-vscode\\HelloCS\\obj\\",
+      "projectPath": "X:\\Project\\Learning\\HelloCS\\HelloCS.csproj",
+      "packagesPath": "C:\\Users\\Zetczu\\.nuget\\packages\\",
+      "outputPath": "X:\\Project\\Learning\\HelloCS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Zetczu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -54,6 +54,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

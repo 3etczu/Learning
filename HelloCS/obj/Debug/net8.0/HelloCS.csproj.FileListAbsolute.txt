@@ -1,0 +1,15 @@
+X:\Project\Learning\HelloCS\bin\Debug\net8.0\HelloCS.exe
+X:\Project\Learning\HelloCS\bin\Debug\net8.0\HelloCS.deps.json
+X:\Project\Learning\HelloCS\bin\Debug\net8.0\HelloCS.runtimeconfig.json
+X:\Project\Learning\HelloCS\bin\Debug\net8.0\HelloCS.dll
+X:\Project\Learning\HelloCS\bin\Debug\net8.0\HelloCS.pdb
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfoInputs.cache
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfo.cs
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\HelloCS.csproj.CoreCompileInputs.cache
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\HelloCS.sourcelink.json
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\HelloCS.dll
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\HelloCS.pdb
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\HelloCS.genruntimeconfig.cache
+X:\Project\Learning\HelloCS\obj\Debug\net8.0\ref\HelloCS.dll

@@ -1,2 +1,2 @@
-﻿Console.WriteLine("Hello from a Top Level Program!");
+﻿Console.WriteLine("Hello World!");
 Console.WriteLine(Environment.OSVersion.VersionString);

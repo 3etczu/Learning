@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\Chapter01-vscode\\TopLevelProgram\\TopLevelProgram.csproj": {}
+    "X:\\Project\\Learning\\TopLevelProgram\\TopLevelProgram.csproj": {}
   },
   "projects": {
-    "C:\\Project\\Chapter01-vscode\\TopLevelProgram\\TopLevelProgram.csproj": {
+    "X:\\Project\\Learning\\TopLevelProgram\\TopLevelProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\Chapter01-vscode\\TopLevelProgram\\TopLevelProgram.csproj",
+        "projectUniqueName": "X:\\Project\\Learning\\TopLevelProgram\\TopLevelProgram.csproj",
         "projectName": "TopLevelProgram",
-        "projectPath": "C:\\Project\\Chapter01-vscode\\TopLevelProgram\\TopLevelProgram.csproj",
-        "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\Chapter01-vscode\\TopLevelProgram\\obj\\",
+        "projectPath": "X:\\Project\\Learning\\TopLevelProgram\\TopLevelProgram.csproj",
+        "packagesPath": "C:\\Users\\Zetczu\\.nuget\\packages\\",
+        "outputPath": "X:\\Project\\Learning\\TopLevelProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Zetczu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

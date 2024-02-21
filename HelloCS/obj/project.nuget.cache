@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kMM0VPZD9r8jLlHnlrlOcE3DzpiRGHnxMkw3uIOp0ApnPivvxmYPv0MOOiRrf6fYT2TvJc/26dkw6tduqeojig==",
+  "dgSpecHash": "TpxaFrqL/uyPigl4RvZWkqxwKt64uFNH8iHGceG5P8nzDYbPToWk0bE9O9YTsUneisBL+la1sdanfxfwbo7lWg==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Chapter01-vscode\\HelloCS\\HelloCS.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "X:\\Project\\Learning\\HelloCS\\HelloCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zetczu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Zetczu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Zetczu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Zetczu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
