@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloCS", "HelloCS.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelProgram", "..\TopLevelProgram\TopLevelProgram.csproj", "{CA879F31-C5C2-4367-ADBC-3D90E705D637}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vocabulary", "..\..\Chapter02\Vocabulary\Vocabulary.csproj", "{4FA8DA88-4059-454D-B4A6-18447A92CD6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CA879F31-C5C2-4367-ADBC-3D90E705D637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA879F31-C5C2-4367-ADBC-3D90E705D637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA879F31-C5C2-4367-ADBC-3D90E705D637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA8DA88-4059-454D-B4A6-18447A92CD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA8DA88-4059-454D-B4A6-18447A92CD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA8DA88-4059-454D-B4A6-18447A92CD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA8DA88-4059-454D-B4A6-18447A92CD6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

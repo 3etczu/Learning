@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TopLevelProgram")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Vocabulary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b2d0c9fd04c22986e3c8f4615539fd2fb2e6336")]
-[assembly: System.Reflection.AssemblyProductAttribute("TopLevelProgram")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TopLevelProgram")]
+[assembly: System.Reflection.AssemblyProductAttribute("Vocabulary")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Vocabulary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
